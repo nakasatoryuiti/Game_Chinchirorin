@@ -1,4 +1,6 @@
 実行環境はVisual Studio Codeです。
+Chinchirorin.javaがプログラムになります。
+他は画像(DiceImage)や音声(DiceSound)はゲーム内で出力する為のファイルです。
 ---### **操作**
 基本的にenterキーを押せば前に進みます。
 あとは半角文字で入力すれば問題ないです。
